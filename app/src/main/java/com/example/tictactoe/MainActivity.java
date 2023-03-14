@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
             {0, 4, 8},
             {2, 4, 6}
     };
+
     public static int counter = 0;
 
     // this function will be called every time a players tap in an empty box of the grid
